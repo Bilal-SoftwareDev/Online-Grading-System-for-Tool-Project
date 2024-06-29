@@ -11,6 +11,8 @@ public class student {
 	private int name;
 	public User m_User;
 	public User       m_User      ;
+	public User       m_User      ;
+	public User       m_User      ;
 
 	public student(){
 

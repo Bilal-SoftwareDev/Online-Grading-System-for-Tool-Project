@@ -11,6 +11,10 @@ public class Grade_manger {
 	public Grade        m_Grade       ;
 	public User       m_User      ;
 	public Grade        m_Grade       ;
+	public User       m_User      ;
+	public Grade        m_Grade       ;
+	public User       m_User      ;
+	public Grade        m_Grade       ;
 
 	public Grade_manger(){
 
