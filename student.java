@@ -10,6 +10,7 @@ public class student {
 	private int id;
 	private int name;
 	public User m_User;
+	public User       m_User      ;
 
 	public student(){
 
@@ -27,11 +28,11 @@ public class student {
 	 * @param username
 	 * @param password
 	 */
-	public void login(char username, char password){
+	public login(char username, char password){
 
 	}
 
-	public void logout(){
+	public logout(){
 
 	}
 

@@ -12,6 +12,9 @@ public class Instructor {
 	public User       m_User      ;
 	public Course       m_Course      ;
 	public CourseManager    m_CourseManager   ;
+	public User       m_User      ;
+	public Course       m_Course      ;
+	public CourseManager    m_CourseManager   ;
 
 	public Instructor(){
 

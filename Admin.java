@@ -10,6 +10,7 @@ public class Admin {
 	private int id;
 	private char Name;
 	public User       m_User      ;
+	public User       m_User      ;
 
 	public Admin(){
 
